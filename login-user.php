@@ -35,7 +35,7 @@ require 'include/theme.php';
 					<div class = "input-group mb-2">
 						<p>Don't have an account? Create one <a href = "register-user.php">here</a>!</p>
 					</div>
-
+				
 			</div>
 		</div>
 	</div>
